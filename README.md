@@ -32,5 +32,5 @@ $ pip install spotipy --upgrade
 ## Built With
 
 * [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io/en/latest/#) - Used to scrape the Billboard Hot 100 songs 
-* [Requests](https://pypi.org/project/requests/) - Used to make HTTP requests to the Billboard Hot 100 at a given date.
+* [Requests](https://pypi.org/project/requests/) - Used to make HTTP requests to the Billboard Hot 100 at a given date
 * [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) - Used to authenticate third party applications and allow access to a user's Spotify account
