@@ -1,4 +1,4 @@
-# Scraping Billboard to create a Spotify Playlist
+# Automating Spotify playlist creation
 
 This Python project utilises the BeauitfulSoup, Requests and Spotipy libraries to make requests to the Billboard Hot 100 and scrape the songs at a given date. Spotipy is then used to authenticate Spotify and allow access to third party applications (such as this Python program) without using the username and password associated with the account, instead using a unique client id and client secret. Once authentication is completed, the songs that were previously scraped from Billboard are searched for on Spotify and added to a new playlist. 
 
